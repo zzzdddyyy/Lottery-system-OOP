@@ -1,0 +1,11 @@
+F:\C#从入门到放弃\练习到放弃\面向对象开发-抽奖系统\DAL\bin\Release\DAL.dll
+F:\C#从入门到放弃\练习到放弃\面向对象开发-抽奖系统\DAL\bin\Release\DAL.pdb
+F:\C#从入门到放弃\练习到放弃\面向对象开发-抽奖系统\DAL\bin\Release\Common.dll
+F:\C#从入门到放弃\练习到放弃\面向对象开发-抽奖系统\DAL\bin\Release\Models.dll
+F:\C#从入门到放弃\练习到放弃\面向对象开发-抽奖系统\DAL\bin\Release\Common.pdb
+F:\C#从入门到放弃\练习到放弃\面向对象开发-抽奖系统\DAL\bin\Release\Models.pdb
+F:\C#从入门到放弃\练习到放弃\面向对象开发-抽奖系统\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+F:\C#从入门到放弃\练习到放弃\面向对象开发-抽奖系统\DAL\obj\Release\DAL.dll
+F:\C#从入门到放弃\练习到放弃\面向对象开发-抽奖系统\DAL\obj\Release\DAL.pdb
+F:\C#从入门到放弃\练习到放弃\面向对象开发-抽奖系统\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+F:\C#从入门到放弃\练习到放弃\面向对象开发-抽奖系统\DAL\obj\Release\DAL.csproj.CopyComplete

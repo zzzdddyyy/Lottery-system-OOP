@@ -1,0 +1,6 @@
+F:\C#从入门到放弃\练习到放弃\面向对象开发-抽奖系统\Models\bin\Release\Models.dll
+F:\C#从入门到放弃\练习到放弃\面向对象开发-抽奖系统\Models\bin\Release\Models.pdb
+F:\C#从入门到放弃\练习到放弃\面向对象开发-抽奖系统\Models\obj\Release\Models.csproj.CoreCompileInputs.cache
+F:\C#从入门到放弃\练习到放弃\面向对象开发-抽奖系统\Models\obj\Release\Models.dll
+F:\C#从入门到放弃\练习到放弃\面向对象开发-抽奖系统\Models\obj\Release\Models.pdb
+F:\C#从入门到放弃\练习到放弃\面向对象开发-抽奖系统\Models\obj\Release\Models.csprojAssemblyReference.cache
